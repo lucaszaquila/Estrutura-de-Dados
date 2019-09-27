@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Form
 {
-    class Telefone
+    class Fone
     {
         private string numero;
         private string tipo;
@@ -14,7 +14,7 @@ namespace Form
         public string Numero { get => numero; set => numero = value; }
         public string Tipo { get => tipo; set => tipo = value; }
 
-        public Telefone(string numero, string tipo)
+        public Fone(string numero, string tipo)
         {
             this.numero = numero;
             this.tipo = tipo;

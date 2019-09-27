@@ -4,11 +4,15 @@ using System.Collections.Generic;
 
 namespace Form
 {
-    public partial class Form1 : Form
+    public partial class Form1 
     {
         Contatos contatos = new Contatos();
         List<string> numeros = new List<string>();
         List<string> tipo = new List<string>();
+        private object comboTipoBox;
+        private object boxNum;
+        private object listaNumerosBoxs;
+        private object boxTipo;
 
         public Form1()
         {

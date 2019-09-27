@@ -1,0 +1,5 @@
+C:\Users\aluno\Downloads\estrutura-de-dados-2-master (1)\estrutura-de-dados-2-master\Form\obj\Debug\Form.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\estrutura-de-dados-2-master (1)\estrutura-de-dados-2-master\Form\obj\Debug\Form.Form1.resources
+C:\Users\aluno\Downloads\estrutura-de-dados-2-master (1)\estrutura-de-dados-2-master\Form\obj\Debug\Form.Properties.Resources.resources
+C:\Users\aluno\Downloads\estrutura-de-dados-2-master (1)\estrutura-de-dados-2-master\Form\obj\Debug\Form.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\estrutura-de-dados-2-master (1)\estrutura-de-dados-2-master\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
