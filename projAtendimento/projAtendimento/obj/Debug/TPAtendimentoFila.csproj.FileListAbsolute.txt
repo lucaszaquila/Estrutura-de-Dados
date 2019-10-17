@@ -1,0 +1,38 @@
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.pdb
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csprojAssemblyReference.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.FormProjetoAtendimento.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.Properties.Resources.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.GenerateResource.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.CoreCompileInputs.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\TPFila\TPAtendimentoFila\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.pdb
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe.config
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.exe
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.pdb
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.FormProjetoAtendimento.resources
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.Properties.Resources.resources
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe
+C:\Users\aluno\Downloads\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.pdb
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe.config
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.exe
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.pdb
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.pdb
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csprojResolveAssemblyReference.cache
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.FormProjetoAtendimento.resources
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.Properties.Resources.resources
+I:\IFSP\Quarto Semestre\Estrutura de Dados 2\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.GenerateResource.Cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\bin\Debug\TPAtendimentoFila.pdb
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csprojAssemblyReference.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.FormProjetoAtendimento.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.Properties.Resources.resources
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.GenerateResource.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.csproj.CoreCompileInputs.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\AtendimentoFila-master\TPAtendimentoFila\obj\Debug\TPAtendimentoFila.pdb
